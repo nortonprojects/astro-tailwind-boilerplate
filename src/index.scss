@@ -1,0 +1,34 @@
+@import "tailwindcss/base";
+
+@import "tailwindcss/components";
+
+@import "tailwindcss/utilities";
+
+@import "@astrouxds/rux-css/src/css/common/_variables.css";
+@import "@astrouxds/rux-css/src/css/common/_theme--light.css";
+@import "@astrouxds/rux-css/src/css/common/_theme--dark.css";
+@import "@astrouxds/rux-css/src/css/common/_typography.css";
+@import "@astrouxds/rux-css/src/css/common/_global.css";
+@import "@astrouxds/rux-css/src/css/core/button.css";
+@import "@astrouxds/rux-css/src/css/core/card.css";
+@import "@astrouxds/rux-css/src/css/core/control.css";
+@import "@astrouxds/rux-css/src/css/core/drop-down.css";
+@import "@astrouxds/rux-css/src/css/core/forms.css";
+@import "@astrouxds/rux-css/src/css/core/input.css";
+@import "@astrouxds/rux-css/src/css/core/table.css";
+@import "@astrouxds/rux-css/src/css/components/advanced-status.css";
+@import "@astrouxds/rux-css/src/css/components/clock.css";
+@import "@astrouxds/rux-css/src/css/components/icons.css";
+@import "@astrouxds/rux-css/src/css/components/log.css";
+@import "@astrouxds/rux-css/src/css/components/modal.css";
+@import "@astrouxds/rux-css/src/css/components/notification.css";
+@import "@astrouxds/rux-css/src/css/components/pop-up.css";
+@import "@astrouxds/rux-css/src/css/components/progress.css";
+@import "@astrouxds/rux-css/src/css/components/pushbutton.css";
+@import "@astrouxds/rux-css/src/css/components/segmented-button.css";
+@import "@astrouxds/rux-css/src/css/components/slider.css";
+@import "@astrouxds/rux-css/src/css/components/status.css";
+@import "@astrouxds/rux-css/src/css/components/tabs.css";
+@import "@astrouxds/rux-css/src/css/components/toggle-legacy.css";
+@import "@astrouxds/rux-css/src/css/components/toggle.css";
+@import "@astrouxds/rux-css/src/css/components/tree.css";
